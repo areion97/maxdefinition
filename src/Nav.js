@@ -27,21 +27,21 @@ function Nav() {
                     <tr>
                         <td>
                             <Button onClick={()=>setMenuStyle(menuBarHidden)}>
-                                <Link class="nav-link" to="/andreasestito"><h1>Home</h1></Link>
+                                <Link class="nav-link" to="/maxdefinition"><h1>Home</h1></Link>
                             </Button>
                         </td>
                     </tr>
                     <tr>
                         <td>
                             <Button onClick={()=>setMenuStyle(menuBarHidden)}>
-                                <Link class="nav-link" to="/andreasestito/cv"><h1>Curriculum Vitae</h1></Link>
+                                <Link class="nav-link" to="/maxdefinition/cv"><h1>Curriculum Vitae</h1></Link>
                             </Button>
                         </td>
                     </tr>
                     <tr>
                         <td>
                             <Button onClick={()=>setMenuStyle(menuBarHidden)}>
-                                <Link class="nav-link" to="/andreasestito/certificates"><h1>Certificates</h1></Link>
+                                <Link class="nav-link" to="/maxdefinition/certificates"><h1>Certificates</h1></Link>
                             </Button>
                         </td>
                     </tr>

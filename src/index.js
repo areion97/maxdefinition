@@ -18,9 +18,9 @@ root.render(
     <BrowserRouter>
         <Nav/>
         <Routes>
-          <Route path="/andreasestito" element={<Home />} />
-          <Route path="/andreasestito/cv" element={<CV />} />
-          <Route path="/andreasestito/certificates" element={<Certificates />} />
+          <Route path="/maxdefinition" element={<Home />} />
+          <Route path="/maxdefinition/cv" element={<CV />} />
+          <Route path="/maxdefinition/certificates" element={<Certificates />} />
 
         </Routes>
       </BrowserRouter>
