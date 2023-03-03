@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maxdefinition/static/css/main.e9f254f7.css",
+    "main.js": "/maxdefinition/static/js/main.011fd654.js",
+    "static/media/FCE.jpg": "/maxdefinition/static/media/FCE.7167cb40ae54fd339a1a.jpg",
+    "static/media/profile.jpg": "/maxdefinition/static/media/profile.497e4aa8c309eb3fefb3.jpg",
+    "static/media/IBM_Certificate.jpg": "/maxdefinition/static/media/IBM_Certificate.90d4fa087b31432db713.jpg",
+    "static/media/Curriculum Andrea Sestito.pdf": "/maxdefinition/static/media/Curriculum Andrea Sestito.b206de72eb7efa5d09ab.pdf",
+    "static/media/instagram_logo.png": "/maxdefinition/static/media/instagram_logo.ee4d774bc7caab103e21.png",
+    "static/media/ulivi.jpg": "/maxdefinition/static/media/ulivi.d0d01605eb6ab45f57aa.jpg",
+    "static/media/cambridge-logo.jpg": "/maxdefinition/static/media/cambridge-logo.e1f5f4c0c21ff83bdf77.jpg",
+    "static/media/polimi.png": "/maxdefinition/static/media/polimi.d15aae1a8c4940522e08.png",
+    "static/media/blazemeter-logo.svg": "/maxdefinition/static/media/blazemeter-logo.23bba74b6abba0731d0e45d8ebcc310b.svg",
+    "index.html": "/maxdefinition/index.html",
+    "main.e9f254f7.css.map": "/maxdefinition/static/css/main.e9f254f7.css.map",
+    "main.011fd654.js.map": "/maxdefinition/static/js/main.011fd654.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f254f7.css",
+    "static/js/main.011fd654.js"
+  ]
+}
